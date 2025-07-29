@@ -3,7 +3,7 @@ Hi there, I'm Silvia 👋
 🧠 Status: applying for grad school (and trying not to panic) <br>
 🎓 Just graduated with a degree in International Business <br>
 🤖 Currently self-learning: Python, UI/UX design, machine learning — and trying to befriend my code <br>
-🌱 Hobbies: tennis, volleyball, ... (recently getting into billiards) <br>
+🌱 Hobbies: tennis, volleyball, reading novels... (recently getting into billiards) <br>
 🧋 Weakness: foooooooooooooood <br>
 🚧 Please excuse the bugs orz...
 
