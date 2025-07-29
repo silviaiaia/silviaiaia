@@ -1,6 +1,6 @@
 Hi there 👋
 
-🌱 Hobbies: tennis, volleyball, ... (recently getting into billiards)
+🌱 Hobbies: tennis, volleyball, ... (recently getting into billiards) <br>
 🧋 Weakness: foooooooooooooood
 
 ---
