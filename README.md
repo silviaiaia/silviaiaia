@@ -1,7 +1,11 @@
-Hi there 👋
+Hi there, I'm Silvia👋
 
+🧠 Status: applying for grad school and trying not to panic <br>
+🎓 Just graduated from International Business <br>
+🤖 Currently self-learning: Python, UI/UX design, maching learning, and be freind with my code <br>
 🌱 Hobbies: tennis, volleyball, ... (recently getting into billiards) <br>
-🧋 Weakness: foooooooooooooood
+🧋 Weakness: foooooooooooooood <br>
+🚧 Please excuse the bugs orz...
 
 ---
 
