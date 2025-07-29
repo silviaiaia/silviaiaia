@@ -1,9 +1,10 @@
 Hi there 👋
 
-> Status: Stable (most of the time)
-
 🌱 Hobbies: tennis, volleyball, ... (recently getting into billiards)
+
 🧋 Weakness: foooooooooooooood
+
+---
 
 <p align="left">
   <a href="mailto:silvialin0810@gmail.com" target="_blank">
