@@ -9,6 +9,8 @@ Hi there 👋
   </a>
 </p>
 
+📧 silvialin0810@gmail.com
+
 
 <!--
 **silviaiaia/silviaiaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
