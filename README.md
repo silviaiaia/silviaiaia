@@ -4,7 +4,7 @@ Hi there, I'm Silvia 👋
 🧋 Weakness: foooooooooooooood <br>
 🚧 Please excuse the bugs orz...
 
----
+-
 
 <p align="left">
   <a href="mailto:silvialin0810@gmail.com" target="_blank">
