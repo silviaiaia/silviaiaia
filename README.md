@@ -12,6 +12,11 @@
   </a>
 </p>
 
+<p>
+  <a href="https://instagram.com/silviaiaiaiaia">
+    <img height="50" src="icon-images/icon-instagram.png"/>
+  </a>
+</p>
 
 <!--
 **silviaiaia/silviaiaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
