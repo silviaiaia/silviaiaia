@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=300&section=header&text=Hi%20there!&fontSize=70&fontAlignY=40&desc=welcome%20to%20silvia's%20github%20pages&descSize=20&descAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=300&section=header&text=Hi%20there!&fontSize=70&fontAlignY=40&desc=welcome%20to%20silvia's%20github%20pages&descSize=20&descAlignY=50" />
 
 <p align="left">
   <a href="mailto:silvialin0810@gmail.com" target="_blank">
