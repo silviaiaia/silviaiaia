@@ -7,13 +7,13 @@
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=200&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=50&fontAlign=15&fontAlignY=30&desc=welcome%20to%20silvia's%20github&descSize=20&descAlign=17&descAlignY=50" />
 
-### Skills
-<img height="45" src="icon-images/icon-excel.png">&nbsp;
-<img height="50" src="icon-images/icon-canva.png">&nbsp;
-<img height="45" src="icon-images/icon-sap.png">
+### Tools I've used
+Microsoft Excel, Microsoft Powerpoint, Canva, Figma, Notion, SAP
+### Skills I've learned
+B2C e-commerce platform operation, market analysis, data collection and analysis, sustainability reporting
 
-### Some tools I've learned
-[![Tools](https://skillicons.dev/icons?i=github,py,anaconda,html,css,js,notion,figma)](https://skillicons.dev)
+### Learning
+[![Tools](https://skillicons.dev/icons?i=github,py,anaconda,html,css,js)](https://skillicons.dev)
 
 ### Find me here
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/silvia-lin-9199a226b/)&nbsp;
