@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1&height=300&section=header&text=Hi%20there!&fontSize=70&fontAlignY=40&desc=welcome%20to%20silvia's%20github%20pages&descSize=20&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=wavingcolor=D9BED1&height=300&section=header&text=Hi%20there!&fontSize=70&fontAlignY=40&desc=welcome%20to%20silvia's%20github%20pages&descSize=20&descAlignY=55" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/silvia-lin-9199a226b/">
