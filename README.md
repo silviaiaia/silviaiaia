@@ -25,7 +25,15 @@ B2C e-commerce platform operation, market analysis, data collection and analysis
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header&text=Learning&fontSize=23&fontColor=D9BED1&fontAlign=5.8&fontAlignY=65" />
 
-[![Tools](https://skillicons.dev/icons?i=github,py,anaconda,html,css,js)](https://skillicons.dev)
+<!--
+learning
+-->
+
+[![Tools](https://skillicons.dev/icons?i=github,py,anaconda,html,css,js,mysql)](https://skillicons.dev)
+
+<!--
+find me here
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header&text=Find%20me%20here&fontSize=23&fontColor=D9BED1&fontAlign=8.4&fontAlignY=80" />
 
