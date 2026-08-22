@@ -26,10 +26,8 @@ National Chengchi University | Taipei, Taiwan
 [![Tools](https://skillicons.dev/icons?i=github,git,py,anaconda,java,html,css,js,mysql)](https://skillicons.dev)
 
 <!--
-download my resume here
+CV available on request ^^
 -->
-
-[![CV](https://img.shields.io/badge/Download%20CV-PDF-D9BED1?style=for-the-badge&logoColor=000000)](https://github.com/silviaiaia/silviaiaia/raw/main/SihLingLin_Resume.pdf)
 
 <!--
 find me here
