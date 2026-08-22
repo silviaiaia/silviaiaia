@@ -23,6 +23,12 @@ Bachelor of Business Administration, International Business | National Chengchi 
 
 [![Tools](https://skillicons.dev/icons?i=github,git,py,anaconda,java,html,css,js,mysql)](https://skillicons.dev)
 
+**PROJECTS**
+
+- [AutoPO](https://github.com/silviaiaia/AutoPO_Demo) — Parses purchase order PDFs into structured data for ERP entry. Python.
+- [IELTS Speaking Generator](https://github.com/silviaiaia/ielts.speaking.generator) — Full-stack question generator backed by the Gemini API. Node.js on Vercel.
+- [Internal Transfer Portal](https://github.com/silviaiaia/internal-transfer-portal) — Bilingual internal job board. Vanilla JS.
+
 <!--
 CV available on request ^^
 -->
