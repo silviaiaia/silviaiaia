@@ -5,7 +5,7 @@
 <!--
   Animated header -> https://github.com/kyechan99/capsule-render
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=200&section=header&text=Hi%20there!&fontColor=FFFFFF&fontSize=50&fontAlign=15&fontAlignY=30&desc=welcome%20to%20silvia's%20github&descSize=20&descAlign=17&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=200&section=header&text=Hi%20there!&fontColor=000000&fontSize=50&fontAlign=15&fontAlignY=30&desc=welcome%20to%20silvia's%20github&descSize=20&descAlign=17&descAlignY=50" />
 
 <!--
 learning
