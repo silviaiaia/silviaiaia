@@ -15,11 +15,9 @@ about me
 
 **EDUCATION**
 
-Master of Information Technology
-University of Melbourne | Melbourne, VIC, Australia
+Master of Information Technology | University of Melbourne
 
-Bachelor of Business Administration, International Business
-National Chengchi University | Taipei, Taiwan
+Bachelor of Business Administration, International Business | National Chengchi University
 
 **SKILLS**
 
