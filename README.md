@@ -31,6 +31,8 @@ Bachelor of Business Administration, International Business | National Chengchi 
 
 [Internal Transfer Portal](https://github.com/silviaiaia/internal-transfer-portal) — Bilingual internal job board. Vanilla JS.
 
+[PDF Document Tool](https://github.com/silviaiaia/document_tool) — Local-first PDF and image toolkit — split, merge, convert, compress without uploading your files.
+
 <!--
 CV available on request ^^
 -->
