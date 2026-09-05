@@ -43,6 +43,6 @@ find me here
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=30&section=header&text=Find%20me%20here&fontSize=23&fontColor=D9BED1&fontAlign=8.4&fontAlignY=80" />
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/silvia-lin-9199a226b/)&nbsp;
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/sih-ling-lin-9199a226b)&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:silvialin0810@gmail.com)&nbsp;
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/silviaiaiaiaia)
